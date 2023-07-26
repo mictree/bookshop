@@ -1,0 +1,23 @@
+export const HOME_PATH = '/'
+export const BOOK_PATH = '/book'
+export const BOOK_DETAIL_PATH = '/book/:id'
+export const AUTHOR_PATH = '/author'
+export const AUTHOR_DETAIL_PATH = '/author/:id'
+export const CATEGORY_PATH = '/category'
+export const CATEGORY_DETAIL_PATH = '/category/:id'
+export const PUBLISHER_PATH = '/publisher'
+export const PUBLISHER_DETAIL_PATH = '/publisher/:id'
+
+export const PROFILE_PATH = '/profile'
+export const PROFILE_INFO_PATH = '/profile/info'
+export const PAYMENT_HISTORY_PATH = '/profile/payment-history'
+export const WISHLIST_PATH = '/profile/wishlist'
+
+export const REGISTER_PATH = '/register'
+export const LOGIN_PATH = '/login'
+export const FORGET_PASSWORD_PATH = '/forget-password'
+
+export const CART_PATH='/cart'
+export const PAYMENT_PATH='/payment'
+export const PROFILE_PAYMENT_HISTORY_PATH='/profile/payment-history'
+export const SEARCH_PATH='/search'

@@ -1,0 +1,7 @@
+export const ADD_ITEM_TO_CART = 'cart/ADD_TO_CART'
+export const REMOVE_ITEM_IN_CART = 'cart/REMOVE_ITEM_IN_CART'
+export const INCREASE_ITEM_IN_CART = 'cart/INCREASE_ITEM_IN_CART'
+export const DECREASE_ITEM_IN_CART = 'cart/DECREASE_ITEM_IN_CART'
+export const REMOVE_ALL_ITEM_IN_CART = 'cart/REMOVE_ALL_ITEM_IN_CART'
+export const CHECK_ITEM_IN_CART = 'cart/CHECK_ITEM_IN_CART'
+
