@@ -1,0 +1,13 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mtri-git/bookshop.git",
+  "author": "mtri-git <vmtri20@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./api/src/index.js & vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
